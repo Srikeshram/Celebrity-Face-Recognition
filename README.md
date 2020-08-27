@@ -1,6 +1,8 @@
 # Celebrity-Face-Recognition
 The Deep Learning Model is trained using Tensorflow Framework and it gives validation accuracy value of 85%
 
+![Dataset Images](https://raw.githubusercontent.com/aangfanboy/celebrities_face_recognation_dataset/master/fig.png)
+
 ## Description:
 The below Python code will unzip the above downloaded dataset by the user and split it into the training set and and validation set based on the given ratio.**Transfer Learning** has been implemented  with the **MobileNetV2** model and **imagenet** weights. The pre-trained model consists of 155 layers and the whole layers of the pretrained model is retrained to get the better accuracy.Image Augmentation has been implemented to avoid the overfitting of the model.
 The model has been trained for the 50 epochs and the **Validation Accuracy of 85%** has been yielded.Note:The model performs well on the cropped images.
