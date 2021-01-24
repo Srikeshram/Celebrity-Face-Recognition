@@ -21,11 +21,14 @@ The below libraries are needed to execute the Python code
 * Numpy
 * Matplotlib
 
-#### Dataset Link: https://www.kaggle.com/hereisburak/pins-face-recognition 
+## Dataset Link: https://www.kaggle.com/hereisburak/pins-face-recognition 
+
+
 
 ## Repository Contains:
 * Python Code (.ipynb)
 * Trained Weights(.h5)
+
 
 
 ## Kaggle Link: https://www.kaggle.com/srikeshram/celebrity-face-recognition
